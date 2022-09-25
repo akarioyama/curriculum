@@ -40,11 +40,11 @@ public class Task1_3 {
         String train = "有楽町" + "線" ;
 
         // ⑦ 変数plus, minus, multiply, remi, train をそれぞれ出力しなさい。
-        String.out.println(plus) ;
-        String.out.println(minus) ;
-        String.out.println(multiply) ;
-        String.out.println(remi) ;
-        String.out.println(train) ;
+        System.out.println(plus) ;
+        System.out.println(minus) ;
+        System.out.println(multiply) ;
+        System.out.println(remi) ;
+        System.out.println(train) ;
 
     }
 }
