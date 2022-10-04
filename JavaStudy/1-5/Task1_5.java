@@ -22,10 +22,10 @@ public class Task1_5 {
         /*
         *  [ここに記入]変数の初期化をする。　iが100より大きい数値になるまでは while 文で繰り返し処理を続ける。
         */
-        int i = 1;
-        while(i <= 100) {
-          System.out.print(i);
-          i++;
+        int k = 1;
+        while(k <= 100) {
+          System.out.print(k);
+          k++;
         }
         System.out.println();
 
@@ -41,10 +41,10 @@ public class Task1_5 {
         *     9 || 9 | 18 | 27 | 36 | 45 | 54 | 63 | 72 | 81 |
         */
 
-        for (int i = 1; i <= 9; i++) { 
-          System.out.print(i + "|");
+        for (int k = 1; k <= 9; k++) { 
+          System.out.print(k + "|");
           for (int j = 1; j <= 9; j++) {
-            System.out.print(i * j + " "); 
+            System.out.print(k * j + " "); 
           } 
 
           System.out.println(); 
