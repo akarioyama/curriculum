@@ -1,0 +1,15 @@
+
+public class Test1 {
+
+	//メインメソッド//
+	public static void main(String[] args) {
+		sayHello();
+		// TODO 自動生成されたメソッド・スタブ
+	}
+
+	//sayHelloメソッド//
+	public static void sayHello() {
+		System.out.println("Hello");
+	}
+
+}
