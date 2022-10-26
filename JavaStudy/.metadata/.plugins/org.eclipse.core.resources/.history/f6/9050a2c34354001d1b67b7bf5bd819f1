@@ -1,0 +1,26 @@
+package study;
+
+public class Main {
+    public static void main(String[] args) {
+        String firstName = "akari";
+        String lastName = "oyama";
+
+        String result = plus(firstName, lastName);
+        print(result);
+    }
+    public static String plus(String firstName, String lastName) {
+        return firstName + lastName;
+    }
+    public static void print(String result) {
+        System.out.println(result);
+    }
+
+    public void isOdd(int num) {
+        int [] arr = { 11, 12, 13, 14, 15, 16, 17, 18, 18, 19, 20 };
+        for (int string = 11; string < 20; string++) {
+        }
+        if (num % 2 != 0) {
+            System.out.println(num + "‚ÍŠï”‚Å‚·B");
+        }
+    }
+}

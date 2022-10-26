@@ -1,0 +1,32 @@
+package study;
+
+public class Main {
+    public static void main(String[] args) {
+        String firstName = "akari";
+        String lastName = "oyama";
+        System.out.println(getName(firstName, lastName));
+        System.out.println();
+
+        String result = plus(firstName, lastName);
+        print(result);
+
+        int [] arr = { 11, 12, 13, 14, 15, 16, 17, 18, 18, 19, 20 };
+        for (int string = 11; string < 20; string++) {
+        }
+    }
+
+    public static void (getName) {
+        System.out.println("firstName"+"lastName");
+    }
+
+    public static void print(String result) {
+        System.out.println(result);
+    }
+
+    public void isOdd(int num) {
+
+        if (num % 2 != 0) {
+            System.out.println(num + "は奇数です。");
+        }
+    }
+}
