@@ -3,7 +3,7 @@
  * チェックテスト-Java1章
  *
  */
-public class Check{
+public class check {
     public static void main(String[] args){
         /*
         * 問1
