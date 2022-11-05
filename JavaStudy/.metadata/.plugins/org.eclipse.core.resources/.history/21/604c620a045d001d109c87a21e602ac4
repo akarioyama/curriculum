@@ -1,0 +1,7 @@
+package keicho;
+
+public class A extends Super {
+	public A () {
+		Super("A","A","A");
+	}
+}

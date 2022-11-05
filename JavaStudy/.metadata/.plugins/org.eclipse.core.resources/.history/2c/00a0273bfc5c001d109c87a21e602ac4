@@ -1,0 +1,9 @@
+package study;
+
+public class A extends Super {
+
+	public static void main(String[] args) {
+
+	}
+
+}
