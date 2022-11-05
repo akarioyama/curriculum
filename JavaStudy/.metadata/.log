@@ -500,3 +500,26 @@ java.util.concurrent.TimeoutException
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+
+!ENTRY org.eclipse.ui.ide 4 4 2022-11-05 21:42:47.319
+!MESSAGE ワークスペースの保存の問題
+
+!ENTRY org.eclipse.ui.ide 2 1 2022-11-05 21:42:47.321
+!MESSAGE ワークベンチの状態を保存中に問題が発生しました。
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2022-11-05 21:42:47.322
+!MESSAGE '2-1' のプロジェクト記述ファイル (.project) がありませんでした。 このファイルには、プロジェクトに関する重要な情報が含まれています。 新しいプロジェクト記述ファイルが作成されましたが、プロジェクトに関する情報の一部が破損している可能性があります。
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2022-11-05 21:42:47.322
+!MESSAGE '2-2' のプロジェクト記述ファイル (.project) がありませんでした。 このファイルには、プロジェクトに関する重要な情報が含まれています。 新しいプロジェクト記述ファイルが作成されましたが、プロジェクトに関する情報の一部が破損している可能性があります。
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2022-11-05 21:42:47.322
+!MESSAGE 'greet' のプロジェクト記述ファイル (.project) がありませんでした。 このファイルには、プロジェクトに関する重要な情報が含まれています。 新しいプロジェクト記述ファイルが作成されましたが、プロジェクトに関する情報の一部が破損している可能性があります。
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2022-11-05 21:42:47.322
+!MESSAGE 'keicho' のプロジェクト記述ファイル (.project) がありませんでした。 このファイルには、プロジェクトに関する重要な情報が含まれています。 新しいプロジェクト記述ファイルが作成されましたが、プロジェクトに関する情報の一部が破損している可能性があります。
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2022-11-05 21:42:47.322
+!MESSAGE 'keisho' のプロジェクト記述ファイル (.project) がありませんでした。 このファイルには、プロジェクトに関する重要な情報が含まれています。 新しいプロジェクト記述ファイルが作成されましたが、プロジェクトに関する情報の一部が破損している可能性があります。
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2022-11-05 21:42:47.322
+!MESSAGE 'strong' のプロジェクト記述ファイル (.project) がありませんでした。 このファイルには、プロジェクトに関する重要な情報が含まれています。 新しいプロジェクト記述ファイルが作成されましたが、プロジェクトに関する情報の一部が破損している可能性があります。
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2022-11-05 21:42:47.322
+!MESSAGE 'study' のプロジェクト記述ファイル (.project) がありませんでした。 このファイルには、プロジェクトに関する重要な情報が含まれています。 新しいプロジェクト記述ファイルが作成されましたが、プロジェクトに関する情報の一部が破損している可能性があります。
+
+!ENTRY org.eclipse.core.resources 2 10035 2022-11-05 21:42:49.887
+!MESSAGE ワークスペースは、このセッションで変更が保存されずに終了します。
