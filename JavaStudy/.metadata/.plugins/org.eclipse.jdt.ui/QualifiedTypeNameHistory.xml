@@ -2,4 +2,6 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="study.Businessman"/>
     <fullyQualifiedTypeName name="object.object"/>
+    <fullyQualifiedTypeName name="constants.FruitsConstants"/>
+    <fullyQualifiedTypeName name="fruits.Fruits"/>
 </qualifiedTypeNameHistroy>
