@@ -1,0 +1,18 @@
+package study;
+
+public class Calculator {
+
+	int plus= 10;
+
+    protected  int plus(int a) {
+        return 1 + 1;
+    }
+
+    protected int plus(int a, int b) {
+        return 1 + 2;
+    }
+
+    protected int plus(int a, int b, int c) {
+        return 1 + 2 + 3;
+    }
+}

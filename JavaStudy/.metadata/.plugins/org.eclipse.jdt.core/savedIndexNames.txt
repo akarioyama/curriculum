@@ -1,7 +1,17 @@
 INDEX VERSION 1.131+C:\LetsEngineer\curriculum\JavaStudy\.metadata\.plugins\org.eclipse.jdt.core
 1871533463.index
 1390949125.index
+<<<<<<< Updated upstream
 4135846957.index
+=======
+4058628148.index
+411723009.index
+1759547790.index
+2468258030.index
+913181583.index
+404642576.index
+1699313124.index
+>>>>>>> Stashed changes
 709404927.index
 559188329.index
 1865797976.index

@@ -1,0 +1,8 @@
+package instance;
+
+public class InstanceOfSato {
+	private String firstName;
+	public InstanceOfSato(String firstName) {
+		this.firstName = firstName;
+	}
+}
