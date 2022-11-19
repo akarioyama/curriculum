@@ -1,3 +1,4 @@
+command=C\:\\Users\\Akari_OYAMA\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\java\\17\\bin\\javadoc.exe
 content_assist_category_order=org.eclipse.jdt.ui.swtProposalCategory\:0\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\:1\u0000org.eclipse.jdt.ui.javaChainProposalCategory\:2\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\:3\u0000org.eclipse.jdt.ui.textProposalCategory\:4\u0000org.eclipse.jdt.ui.javaAllProposalCategory\:5\u0000org.eclipse.jdt.ui.javaPostfixProposalCategory\:6\u0000org.eclipse.jdt.ui.templateProposalCategory\:7\u0000org.eclipse.lsp4e.jdt.ls-based-java-completion-computer\:8\u0000jp.gr.java_conf.ussiy.app.propedit.eclipse.plugin.jdt.proposalCategory\:9\u0000
 content_assist_completion_replacement_background=200,200,0
 content_assist_completion_replacement_foreground=200,0,0
@@ -25,6 +26,7 @@ java_multi_line_comment=128,128,128
 java_operator=230,230,250
 java_single_line_comment=128,128,128
 java_string=23,198,163
+markOccurrences=false
 matchingBracketsColor=249,250,244
 org.eclipse.jdt.internal.ui.navigator.layout=2
 org.eclipse.jdt.internal.ui.navigator.librariesnode=true

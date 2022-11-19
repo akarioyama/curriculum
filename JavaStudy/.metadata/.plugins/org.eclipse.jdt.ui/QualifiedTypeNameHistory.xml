@@ -2,4 +2,9 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="study.Businessman"/>
     <fullyQualifiedTypeName name="object.object"/>
+    <fullyQualifiedTypeName name="check.RobotPet"/>
+    <fullyQualifiedTypeName name="check.Pet"/>
+    <fullyQualifiedTypeName name="constants.Constants"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
