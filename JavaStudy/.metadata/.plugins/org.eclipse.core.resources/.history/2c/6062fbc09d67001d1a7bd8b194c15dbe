@@ -1,0 +1,45 @@
+package check;
+
+import check.RobotPet;
+
+import java.io.PrintStream;
+import java.util.ArrayList;
+import java.util.List;
+import check.Pet;
+import constants.Constants;
+
+@SuppressWarnings("unused")
+public class Check {
+	public static void  main(String[] args) {
+
+		String  firstname = "akari" ;
+		String  lastname = "oyama";
+		System.out.println(printName(firstname, lastname));
+		System.out.println();
+
+		List<String>CHECK_CLASS = new ArrayList<String>();
+	    String CHECK_CLASS_JAVA = "java吉";
+	    String CHECK_CLASS_HOGE = "hoge";
+	    String CHECK_CLASS_R2D2 = "R2D2";
+	    String CHECK_CLASS_LUKE = "ルーク";
+
+		Pet pt = new Pet(firstname, lastname);
+		pt.introduce();
+		System.out.println();
+		RobotPet rpt = new RobotPet(firstname, lastname);
+		rpt.introduce();
+		System.out.println();
+	}
+
+	public void pt(String getname, String getMasterName, String introduce) {
+		System.out.println();
+	}
+
+	public  void rpt() {
+		System.out.println();
+	}
+
+		private static String  printName(String firstName , String lastName) {
+			return firstName + lastName ;
+		}
+}

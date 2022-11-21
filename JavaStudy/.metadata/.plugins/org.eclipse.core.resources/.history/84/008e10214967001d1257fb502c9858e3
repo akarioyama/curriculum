@@ -1,0 +1,35 @@
+package check;
+
+import check.RobotPet;
+import check.Pet;
+import constants.Constants;
+
+@SuppressWarnings("unused")
+public class Check {
+	private static String  firstname = "akari" ;
+	private static String  lastname = "oyama";
+
+	public static void  main(String[] args) {
+
+		Pet pt = new Pet(firstname, lastname);
+		pt.introduce();
+		  System.out.println();
+		RobotPet rpt = new RobotPet(firstname, lastname);
+		 rpt.introduce();
+		 System.out.println();
+
+		String CHECK_CLASS_JAVA = "java吉";
+		System.out.println("ぼくの名前は"+CHECK_CLASS_JAVA  +"です。");
+		String CHECK_CLASS_HOGE = "hoge";
+		System.out.println("ぼくの名前は"+CHECK_CLASS_HOGE +"です。");
+	}
+
+
+	public static void rpt() {
+		System.out.println();
+	}
+
+		private String  printName() {
+			return firstname + lastname ;
+		}
+}

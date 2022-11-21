@@ -1,0 +1,56 @@
+package check;
+
+import java.util.ArrayList;
+import java.util.LinkedHashMap;
+import java.util.List;
+
+import check.Pet;
+import check.RobotPet;
+import constants.Constants;
+
+@SuppressWarnings("unused")
+public class Check {
+
+	public static void  main(String[] args) {
+
+		//自分の名前で初期化//
+		String  firstName = "akari" ;
+		String  lastName = "oyama";
+		System.out.println("printNameメソッド→" + printName(firstName,lastName));
+
+		String name ="java吉" ;
+		String mastername = "hoge" ;
+
+		//インスタンス化//
+		Pet pt = new Pet(name, mastername) ;
+		pt.introduce();
+		System.out.println();
+		RobotPet rpt = new RobotPet(firstName, lastName);
+		rpt.introduce();
+		System.out.println();
+
+		List <String>CHECK_CLASS = new ArrayList <String>();
+		 String CHECK_CLASS_JAVA = "java吉";
+	     String CHECK_CLASS_HOGE = "hoge";
+	     String CHECK_CLASS_R2D2 = "R2D2";
+	     String CHECK_CLASS_LUKE = "ルーク" ;
+	}
+
+
+//Petクラスのtメソッド//
+	public static void pt() {
+		String getName = "java吉";
+		String getMasterName1 = "hoge";
+		System.out.println();
+	}
+
+	//RobotPetクラスのメソッド//
+	public  void rpt(String getName , String getMasterName ) {
+		System.out.println();
+	}
+
+	//printNameメソッド//
+	private static String  printName(String firstName , String lastName) {
+			return firstName + lastName ;
+		}
+}

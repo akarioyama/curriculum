@@ -1,0 +1,33 @@
+package check;
+
+import check.RobotPet;
+import check.Pet;
+import constants.Constants;
+
+@SuppressWarnings("unused")
+public class Check {
+	private static String  firstname = "akari" ;
+	private static String  lastname = "oyama";
+
+	public static void  main(String[] args) {
+
+		Pet pt = new Pet(firstname, lastname);
+		pt.introduce();
+		  System.out.println();
+		RobotPet rpt = new RobotPet(firstname, lastname);
+		 rpt.introduce();
+		 System.out.println();
+	}
+
+	public void pt(String getname, String getMasterName, String introduce) {
+		System.out.println();
+	}
+
+	public static void rpt() {
+		System.out.println();
+	}
+
+		private String  printName() {
+			return firstname + lastname ;
+		}
+}

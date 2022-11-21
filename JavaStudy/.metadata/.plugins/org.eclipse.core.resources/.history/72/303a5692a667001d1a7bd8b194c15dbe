@@ -1,0 +1,40 @@
+package check;
+
+import check.Pet;
+import check.RobotPet;
+import constants.Constants;
+
+@SuppressWarnings("unused")
+public class Check {
+
+	public static void  main(String[] args) {
+
+		//自分の名前で初期化//
+		String  firstName = "akari" ;
+		String  lastName = "oyama";
+		System.out.println("printNameメソッド→" + printName(firstName,lastName));
+
+		//インスタンス化//
+		Pet pt = new Pet(firstName, lastName);
+		pt.introduce();
+		System.out.println();
+		RobotPet rpt = new RobotPet(firstName, lastName);
+		rpt.introduce();
+		System.out.println();
+	}
+
+//Petクラスのtメソッド//
+	public void pt(String getname, String getMasterName, String introduce) {
+		System.out.println();
+	}
+
+	//RobotPetクラスのメソッド//
+	public  void rpt(String getName , String getMasterName ) {
+		System.out.println();
+	}
+
+	//printNameメソッド//
+	private static String  printName(String firstName , String lastName) {
+			return firstName + lastName ;
+		}
+}
