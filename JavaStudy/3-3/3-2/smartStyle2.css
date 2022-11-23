@@ -1,0 +1,19 @@
+@media screen and(max-width:767px) {
+    html{
+        width: 100%;
+        
+    }
+    .contents {
+        float: none;
+        }
+
+}
+
+@media screen and(max-width:479px) {
+    html{
+        width: 100%;
+    }
+    .contents {
+        float: none;
+        }
+}
