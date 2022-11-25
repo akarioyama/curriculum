@@ -1,14 +1,22 @@
 *{
     margin: 0;
     padding: 0;
+    width: 100%;
 }
 
+body {
+	width: 100%;
+}
+.wrapper {
+	width: 400px;
+	margin: 0 auto;
+}
 .clearfix::after{
     content:"";
     display: block;
     clear: both;
+    visibility: hidden;
 }
-
 .header{
     width: 400px;
     height: 100px;
