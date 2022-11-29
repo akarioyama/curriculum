@@ -1,0 +1,11 @@
+@media screen and(max-width:479px) {
+    .html{
+        width: 100%;
+    }
+    .wrapper {
+        width:150px;
+        flex-direction: column;
+        float: none;
+        position:static;
+    }
+}
