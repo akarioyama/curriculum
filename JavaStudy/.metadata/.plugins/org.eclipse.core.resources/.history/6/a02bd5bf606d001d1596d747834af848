@@ -1,0 +1,12 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<%@ page contentType="text/html; charset=window-31j"
+       import="tags.*" %>
+<%@ taglib uri="http://www.javaroad.jp/tags/hello"
+     prefix="hello" %>
+<html>
+ <body>
+       <hello:helloTag/>
+       <name>helloTag</name>
+ </body>
+</html>

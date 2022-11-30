@@ -1,7 +1,0 @@
-package keisho;
-
-public class C extends Sum {
-	public C () {
-		sum("c", "0", "0");
-	}
-}
