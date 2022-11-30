@@ -1,10 +1,10 @@
-@media screen and(max-width:767px) {
-    .html{
+@media screen and (max-width:767px) {
+    body{
         width: 100%;
     }
     .wrapper {
         width: 300px;
-        float: none;
+        float:none;
         position:static;
     }
     .contents {

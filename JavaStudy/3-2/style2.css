@@ -1,16 +1,16 @@
 body {
 	width: 100%;
 }
-.wrapper {
-	width: 400px;
-    height: 450px;
-	margin: 0 auto;
-}
 .clearfix::after{
     content:"";
     display: block;
     clear: both;
     visibility: hidden;
+}
+.wrapper {
+	width: 400px;
+    height: 450px;
+	margin: 0 auto;
 }
 .header{
     width: 400px;
