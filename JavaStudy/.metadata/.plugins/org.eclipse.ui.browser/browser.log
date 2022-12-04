@@ -1,0 +1,142 @@
+
+12月 02, 2022 17:22:34.912 NEW SESSION
+12月 02, 2022 17:22:34.912 [7548:3036:1202/172234.906:ERROR:component_installer.cc(356)] Failed to read manifest or verify installation for Optimization Hints (C:\Users\Akari_OYAMA\AppData\Local\Google\Chrome\User Data\OptimizationHints\347).: アクセスが拒否されました。 (0x5)
+12月 02, 2022 17:22:34.921 [7548:20816:1202/172234.920:ERROR:component_installer.cc(356)] Failed to read manifest or verify installation for CRLSet (C:\Users\Akari_OYAMA\AppData\Local\Google\Chrome\User Data\CertificateRevocation\7499).: アクセスが拒否されました。 (0x5)
+12月 02, 2022 17:22:34.928 [7548:21452:1202/172234.928:ERROR:component_installer.cc(356)] Failed to read manifest or verify installation for PKI Metadata (C:\Users\Akari_OYAMA\AppData\Local\Google\Chrome\User Data\PKIMetadata\322).: アクセスが拒否されました。 (0x5)
+12月 02, 2022 17:22:34.932 [7548:20816:1202/172234.931:ERROR:component_installer.cc(356)] Failed to read manifest or verify installation for Safety Tips (C:\Users\Akari_OYAMA\AppData\Local\Google\Chrome\User Data\SafetyTips\2853).: アクセスが拒否されました。 (0x5)
+12月 02, 2022 17:22:35.461 [7548:19496:1202/172235.460:ERROR:component_installer.cc(356)] Failed to read manifest or verify installation for Hyphenation (C:\Users\Akari_OYAMA\AppData\Local\Google\Chrome\User Data\hyphen-data\106.0.5218.0).: アクセスが拒否されました。 (0x5)
+12月 02, 2022 17:22:40.953 [7548:2660:1202/172240.953:ERROR:device_event_log_impl.cc(215)] [17:22:40.953] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+12月 02, 2022 17:22:40.955 [7548:2660:1202/172240.953:ERROR:device_event_log_impl.cc(215)] [17:22:40.953] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+12月 02, 2022 17:23:36.655 [7548:17684:1202/172336.654:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:23:36.656 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:23:36.658 ERROR: Failed parsing Certificate
+12月 02, 2022 17:23:36.659 
+12月 02, 2022 17:25:40.821 [7548:22424:1202/172540.820:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:25:40.823 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:25:40.824 ERROR: Failed parsing Certificate
+12月 02, 2022 17:25:40.825 
+12月 02, 2022 17:25:41.431 [7548:17684:1202/172541.431:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:25:41.433 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:25:41.435 ERROR: Failed parsing Certificate
+12月 02, 2022 17:25:41.437 
+12月 02, 2022 17:25:44.992 [7548:12768:1202/172544.991:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:25:44.993 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:25:44.995 ERROR: Failed parsing Certificate
+12月 02, 2022 17:25:44.996 
+12月 02, 2022 17:26:07.137 [7548:17684:1202/172607.113:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:26:07.173 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:26:07.241 ERROR: Failed parsing Certificate
+12月 02, 2022 17:26:07.243 
+12月 02, 2022 17:26:08.517 [7548:17684:1202/172608.516:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:26:08.519 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:26:08.520 ERROR: Failed parsing Certificate
+12月 02, 2022 17:26:08.521 
+12月 02, 2022 17:27:02.819 [7548:17684:1202/172702.318:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:27:02.820 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:27:02.821 ERROR: Failed parsing Certificate
+12月 02, 2022 17:27:02.822 
+12月 02, 2022 17:27:04.289 [7548:4620:1202/172704.288:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:27:04.290 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:27:04.292 ERROR: Failed parsing Certificate
+12月 02, 2022 17:27:04.293 
+12月 02, 2022 17:27:06.152 [7548:4620:1202/172706.151:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:27:06.153 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:27:06.155 ERROR: Failed parsing Certificate
+12月 02, 2022 17:27:06.156 
+12月 02, 2022 17:27:06.157 [7548:17684:1202/172706.151:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:27:06.158 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:27:06.159 ERROR: Failed parsing Certificate
+12月 02, 2022 17:27:06.161 
+12月 02, 2022 17:27:10.51 [7548:17684:1202/172710.050:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:27:10.52 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:27:10.53 ERROR: Failed parsing Certificate
+12月 02, 2022 17:27:10.54 
+12月 02, 2022 17:28:00.830 [7548:15848:1202/172800.829:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:28:00.833 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:28:00.834 ERROR: Failed parsing Certificate
+12月 02, 2022 17:28:00.835 
+12月 02, 2022 17:28:02.169 [7548:15848:1202/172802.168:ERROR:cert_verify_proc_builtin.cc(670)] CertVerifyProcBuiltin for adp-pubd-static.adtdp.com failed:
+12月 02, 2022 17:28:02.169 ----- Certificate i=0 (CN=*.adtdp.com,OU=Internet Advertising Headquarters,O=CyberAgent\, Inc.,L=shibuya-ku,ST=Tokyo,C=JP) -----
+12月 02, 2022 17:28:02.171 ERROR: Time is after notAfter
+12月 02, 2022 17:28:02.172 
+12月 02, 2022 17:28:02.173 
+12月 02, 2022 17:28:05.551 [7548:10788:1202/172805.550:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:28:05.552 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:28:05.553 ERROR: Failed parsing Certificate
+12月 02, 2022 17:28:05.555 
+12月 02, 2022 17:28:07.739 [7548:13964:1202/172807.739:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:28:07.741 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:28:07.742 ERROR: Failed parsing Certificate
+12月 02, 2022 17:28:07.743 
+12月 02, 2022 17:28:09.274 [7548:13964:1202/172809.272:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:28:09.275 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:28:09.275 ERROR: Failed parsing Certificate
+12月 02, 2022 17:28:09.277 
+12月 02, 2022 17:28:09.389 [7548:13964:1202/172809.388:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:28:09.390 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:28:09.391 ERROR: Failed parsing Certificate
+12月 02, 2022 17:28:09.393 
+12月 02, 2022 17:39:31.570 [7548:13964:1202/173931.561:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:39:32.204 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:39:32.205 ERROR: Failed parsing Certificate
+12月 02, 2022 17:39:32.207 
+12月 02, 2022 17:39:32.493 [7548:17684:1202/173932.492:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:39:32.494 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:39:32.495 ERROR: Failed parsing Certificate
+12月 02, 2022 17:39:32.496 
+12月 02, 2022 17:39:34.677 [7548:10788:1202/173934.676:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:39:34.678 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:39:34.679 ERROR: Failed parsing Certificate
+12月 02, 2022 17:39:34.681 
+12月 02, 2022 17:39:38.709 [7548:17684:1202/173938.708:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:39:38.710 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:39:38.712 ERROR: Failed parsing Certificate
+12月 02, 2022 17:39:38.713 
+12月 02, 2022 17:39:39.39 [7548:19684:1202/173939.038:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:39:39.40 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:39:39.42 ERROR: Failed parsing Certificate
+12月 02, 2022 17:39:39.43 
+12月 02, 2022 17:39:42.544 [7548:19088:1202/173942.543:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:39:42.545 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:39:42.547 ERROR: Failed parsing Certificate
+12月 02, 2022 17:39:42.548 
+12月 02, 2022 17:40:30.777 [7548:19088:1202/174030.776:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:40:30.779 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:40:30.781 ERROR: Failed parsing Certificate
+12月 02, 2022 17:40:30.782 
+12月 02, 2022 17:40:32.492 [7548:17248:1202/174032.491:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:40:32.493 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:40:32.494 ERROR: Failed parsing Certificate
+12月 02, 2022 17:40:32.495 
+12月 02, 2022 17:40:32.774 [7548:17248:1202/174032.774:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:40:32.775 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:40:32.777 ERROR: Failed parsing Certificate
+12月 02, 2022 17:40:32.778 
+12月 02, 2022 17:41:42.415 [7548:6372:1202/174142.412:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:41:42.420 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:41:42.421 ERROR: Failed parsing Certificate
+12月 02, 2022 17:41:42.422 
+12月 02, 2022 17:42:15.385 [7548:17248:1202/174214.855:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:42:15.400 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:42:15.407 ERROR: Failed parsing Certificate
+12月 02, 2022 17:42:15.421 
+12月 02, 2022 17:42:16.246 [7548:19088:1202/174216.245:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:42:16.249 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:42:16.250 ERROR: Failed parsing Certificate
+12月 02, 2022 17:42:16.251 
+12月 02, 2022 17:42:25.410 [7548:19088:1202/174225.409:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:42:25.411 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:42:25.412 ERROR: Failed parsing Certificate
+12月 02, 2022 17:42:25.414 
+12月 02, 2022 17:43:41.375 [7548:19088:1202/174341.374:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:43:41.377 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:43:41.379 ERROR: Failed parsing Certificate
+12月 02, 2022 17:43:41.380 
+12月 02, 2022 17:43:45.844 [7548:6372:1202/174345.843:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:43:45.846 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:43:45.847 ERROR: Failed parsing Certificate
+12月 02, 2022 17:43:45.848 
+12月 02, 2022 17:43:48.894 [7548:19684:1202/174348.893:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 02, 2022 17:43:48.896 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 02, 2022 17:43:48.898 ERROR: Failed parsing Certificate
+12月 02, 2022 17:43:48.899 

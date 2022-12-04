@@ -1,0 +1,27 @@
+
+jspTets.jsp
+
+<div>
+ padding-top: 50px;
+ padding-bottom: 50px;
+</div>
+
+
+header.jsp
+// div
+background-color: gray;
+// label
+display: inline-block;
+padding: 10px;
+color: white;
+// label
+padding: 10px;
+font-size: 10px;
+
+footer.jsp
+// div
+background-color: gray;
+// label
+display: inline-block;
+padding: 10px;
+color: white;
