@@ -140,3 +140,103 @@
 12月 02, 2022 17:43:48.896 ERROR: Couldn't read tbsCertificate as SEQUENCE
 12月 02, 2022 17:43:48.898 ERROR: Failed parsing Certificate
 12月 02, 2022 17:43:48.899 
+
+12月 08, 2022 20:00:19.581 NEW SESSION
+12月 08, 2022 20:00:19.581 [19056:17356:1208/200019.525:ERROR:component_installer.cc(356)] Failed to read manifest or verify installation for CRLSet (C:\Users\Akari_OYAMA\AppData\Local\Google\Chrome\User Data\CertificateRevocation\7499).: アクセスが拒否されました。 (0x5)
+12月 08, 2022 20:00:19.622 [19056:18736:1208/200019.531:ERROR:component_installer.cc(356)] Failed to read manifest or verify installation for PKI Metadata (C:\Users\Akari_OYAMA\AppData\Local\Google\Chrome\User Data\PKIMetadata\322).: アクセスが拒否されました。 (0x5)
+12月 08, 2022 20:00:19.804 [19056:14252:1208/200019.532:ERROR:component_installer.cc(356)] Failed to read manifest or verify installation for Safety Tips (C:\Users\Akari_OYAMA\AppData\Local\Google\Chrome\User Data\SafetyTips\2853).: アクセスが拒否されました。 (0x5)
+12月 08, 2022 20:00:19.804 [19056:11128:1208/200019.535:ERROR:component_installer.cc(356)] Failed to read manifest or verify installation for Hyphenation (C:\Users\Akari_OYAMA\AppData\Local\Google\Chrome\User Data\hyphen-data\106.0.5218.0).: アクセスが拒否されました。 (0x5)
+12月 08, 2022 20:00:19.804 [19056:13688:1208/200019.537:ERROR:component_installer.cc(356)] Failed to read manifest or verify installation for Optimization Hints (C:\Users\Akari_OYAMA\AppData\Local\Google\Chrome\User Data\OptimizationHints\347).: アクセスが拒否されました。 (0x5)
+12月 08, 2022 20:00:24.129 [19056:10520:1208/200024.129:ERROR:device_event_log_impl.cc(215)] [20:00:24.128] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+12月 08, 2022 20:00:24.129 [19056:10520:1208/200024.129:ERROR:device_event_log_impl.cc(215)] [20:00:24.128] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+
+12月 09, 2022 18:06:16.629 NEW SESSION
+12月 09, 2022 18:06:16.629 [8372:1048:1209/180616.540:ERROR:component_installer.cc(356)] Failed to read manifest or verify installation for Optimization Hints (C:\Users\Akari_OYAMA\AppData\Local\Google\Chrome\User Data\OptimizationHints\347).: アクセスが拒否されました。 (0x5)
+12月 09, 2022 18:06:16.750 [8372:1048:1209/180616.550:ERROR:component_installer.cc(356)] Failed to read manifest or verify installation for CRLSet (C:\Users\Akari_OYAMA\AppData\Local\Google\Chrome\User Data\CertificateRevocation\7499).: アクセスが拒否されました。 (0x5)
+12月 09, 2022 18:06:16.806 [8372:240:1209/180616.566:ERROR:component_installer.cc(356)] Failed to read manifest or verify installation for PKI Metadata (C:\Users\Akari_OYAMA\AppData\Local\Google\Chrome\User Data\PKIMetadata\322).: アクセスが拒否されました。 (0x5)
+12月 09, 2022 18:06:16.806 [8372:10404:1209/180616.571:ERROR:component_installer.cc(356)] Failed to read manifest or verify installation for Hyphenation (C:\Users\Akari_OYAMA\AppData\Local\Google\Chrome\User Data\hyphen-data\106.0.5218.0).: アクセスが拒否されました。 (0x5)
+12月 09, 2022 18:06:16.807 [8372:1232:1209/180616.570:ERROR:component_installer.cc(356)] Failed to read manifest or verify installation for Safety Tips (C:\Users\Akari_OYAMA\AppData\Local\Google\Chrome\User Data\SafetyTips\2853).: アクセスが拒否されました。 (0x5)
+12月 09, 2022 18:06:22.826 [8372:16540:1209/180622.825:ERROR:device_event_log_impl.cc(215)] [18:06:22.826] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+12月 09, 2022 18:06:22.828 [8372:16540:1209/180622.826:ERROR:device_event_log_impl.cc(215)] [18:06:22.826] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+12月 09, 2022 21:03:36.83 [8372:16540:1209/210336.066:ERROR:device_event_log_impl.cc(215)] [21:03:36.065] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 要素が見つかりません。 (0x490)
+12月 09, 2022 22:02:30.385 [8372:5108:1209/220230.374:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 09, 2022 22:02:30.443 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 09, 2022 22:02:30.444 ERROR: Failed parsing Certificate
+12月 09, 2022 22:02:30.445 
+12月 09, 2022 22:57:58.563 [8372:7228:1209/225758.560:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 09, 2022 22:57:58.586 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 09, 2022 22:57:58.586 ERROR: Failed parsing Certificate
+12月 09, 2022 22:57:58.587 
+12月 09, 2022 22:57:58.588 [8372:7228:1209/225758.567:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 09, 2022 22:57:58.588 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 09, 2022 22:57:58.589 ERROR: Failed parsing Certificate
+12月 09, 2022 22:57:58.590 
+12月 09, 2022 22:59:30.853 [8372:7228:1209/225930.853:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 09, 2022 22:59:30.855 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 09, 2022 22:59:30.856 ERROR: Failed parsing Certificate
+12月 09, 2022 22:59:30.857 
+12月 09, 2022 23:00:18.724 [8372:532:1209/230018.724:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 09, 2022 23:00:18.737 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 09, 2022 23:00:18.745 ERROR: Failed parsing Certificate
+12月 09, 2022 23:00:18.753 
+12月 09, 2022 23:03:48.724 [8372:19096:1209/230348.723:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 09, 2022 23:03:48.736 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 09, 2022 23:03:48.743 ERROR: Failed parsing Certificate
+12月 09, 2022 23:03:48.748 
+12月 09, 2022 23:06:45.264 [8372:5108:1209/230645.263:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 09, 2022 23:06:45.265 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 09, 2022 23:06:45.266 ERROR: Failed parsing Certificate
+12月 09, 2022 23:06:45.267 
+12月 09, 2022 23:06:57.152 [8372:324:1209/230657.151:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 09, 2022 23:06:57.153 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 09, 2022 23:06:57.154 ERROR: Failed parsing Certificate
+12月 09, 2022 23:06:57.155 
+12月 09, 2022 23:15:41.834 [8372:5108:1209/231541.833:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 09, 2022 23:15:41.859 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 09, 2022 23:15:41.867 ERROR: Failed parsing Certificate
+12月 09, 2022 23:15:41.875 
+12月 09, 2022 23:34:36.965 [8372:18628:1209/233436.963:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 09, 2022 23:34:36.994 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 09, 2022 23:34:36.995 ERROR: Failed parsing Certificate
+12月 09, 2022 23:34:36.996 
+12月 09, 2022 23:37:18.617 [8372:324:1209/233718.616:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 09, 2022 23:37:18.618 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 09, 2022 23:37:18.619 ERROR: Failed parsing Certificate
+12月 09, 2022 23:37:18.620 
+12月 09, 2022 23:48:20.238 [8372:324:1209/234820.236:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 09, 2022 23:48:20.290 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 09, 2022 23:48:20.303 ERROR: Failed parsing Certificate
+12月 09, 2022 23:48:20.324 
+12月 09, 2022 23:51:20.101 [8372:10228:1209/235120.101:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 09, 2022 23:51:20.110 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 09, 2022 23:51:20.118 ERROR: Failed parsing Certificate
+12月 09, 2022 23:51:20.126 
+12月 09, 2022 23:51:31.919 [8372:7732:1209/235131.918:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 09, 2022 23:51:31.920 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 09, 2022 23:51:31.921 ERROR: Failed parsing Certificate
+12月 09, 2022 23:51:31.922 
+12月 10, 2022 24:03:57.157 [8372:9704:1210/000357.155:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 10, 2022 24:03:57.177 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 10, 2022 24:03:57.188 ERROR: Failed parsing Certificate
+12月 10, 2022 24:03:57.197 
+12月 10, 2022 24:03:59.928 [8372:9704:1210/000359.927:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 10, 2022 24:03:59.929 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 10, 2022 24:03:59.930 ERROR: Failed parsing Certificate
+12月 10, 2022 24:03:59.931 
+12月 10, 2022 24:04:03.198 [8372:10432:1210/000403.197:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 10, 2022 24:04:03.200 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 10, 2022 24:04:03.201 ERROR: Failed parsing Certificate
+12月 10, 2022 24:04:03.202 
+12月 10, 2022 24:14:38.280 [8372:10432:1210/001438.278:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12月 10, 2022 24:14:38.298 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12月 10, 2022 24:14:38.375 ERROR: Failed parsing Certificate
+12月 10, 2022 24:14:38.408 
+
+12月 10, 2022 14:59:27.204 NEW SESSION
+12月 10, 2022 14:59:27.205 [15980:5388:1210/145927.164:ERROR:component_installer.cc(356)] Failed to read manifest or verify installation for CRLSet (C:\Users\Akari_OYAMA\AppData\Local\Google\Chrome\User Data\CertificateRevocation\7499).: アクセスが拒否されました。 (0x5)
+12月 10, 2022 14:59:27.243 [15980:9148:1210/145927.169:ERROR:component_installer.cc(356)] Failed to read manifest or verify installation for PKI Metadata (C:\Users\Akari_OYAMA\AppData\Local\Google\Chrome\User Data\PKIMetadata\322).: アクセスが拒否されました。 (0x5)
+12月 10, 2022 14:59:27.292 [15980:7336:1210/145927.174:ERROR:component_installer.cc(356)] Failed to read manifest or verify installation for Safety Tips (C:\Users\Akari_OYAMA\AppData\Local\Google\Chrome\User Data\SafetyTips\2853).: アクセスが拒否されました。 (0x5)
+12月 10, 2022 14:59:27.293 [15980:4696:1210/145927.173:ERROR:component_installer.cc(356)] Failed to read manifest or verify installation for Optimization Hints (C:\Users\Akari_OYAMA\AppData\Local\Google\Chrome\User Data\OptimizationHints\347).: アクセスが拒否されました。 (0x5)
+12月 10, 2022 14:59:27.295 [15980:14684:1210/145927.178:ERROR:component_installer.cc(356)] Failed to read manifest or verify installation for Hyphenation (C:\Users\Akari_OYAMA\AppData\Local\Google\Chrome\User Data\hyphen-data\106.0.5218.0).: アクセスが拒否されました。 (0x5)
+12月 10, 2022 14:59:32.748 [15980:12480:1210/145932.747:ERROR:device_event_log_impl.cc(215)] [14:59:32.747] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+12月 10, 2022 14:59:32.751 [15980:12480:1210/145932.747:ERROR:device_event_log_impl.cc(215)] [14:59:32.747] USB: usb_device_handle_win.cc:1045 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
