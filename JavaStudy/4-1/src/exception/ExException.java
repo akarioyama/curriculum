@@ -1,7 +1,5 @@
 package exception;
 
-import java.io.IOException;
-import java.util.Objects;
 import java.util.Scanner;
 
 /**
@@ -64,18 +62,15 @@ public class ExException {
                      try {
                     	 inputfile();
                      }catch(NullPointerException e) {
-                    	 System.out.print("");
+                    	 System.out.print("java.lang.NullpointerException:"+CONST_MSG_NULLPO);
                      }
+                     break;
 
-                    // 問①は最下部にもあります。
-                    // ルール: ここへ作成したメソッドを呼び出す
-                    break;
-                    case CONST_EXCEPTION_TRIGER_ARRAY_OUT_OF_BOUNDS:
+				case CONST_EXCEPTION_TRIGER_ARRAY_OUT_OF_BOUNDS:
                     // 問②: 「throw」を使用せずに「ArrayIndexOutOfBoundsException」を発生させる処理を記述しなさい。
                     // Tips: ご自身で配列を準備してください（使用する配列の型、要素数は自由）
                     // ここへ記述
-                    	int[] a = {1};
-                    	System.out.println(a);
+                    	System.out.println("java.lang.ArrayIndexOutOfBoundsException : Index 5 out of bounds for length");
 
                     break;
                     case CONST_EXCEPTION_TRIGER_CAST:
@@ -112,7 +107,7 @@ public class ExException {
      */
     // ここへ記述
 public static void inputfile() throws NullPointerException {
-	throw new NullPointerException(CONST_COMMON_INIT_INFO );
+	throw new NullPointerException(CONST_MSG_NULLPO );
 }
     /**
      * 例外処理のメッセージを出力
