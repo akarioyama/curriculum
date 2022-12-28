@@ -1,0 +1,46 @@
+①
+select store_name 店舗名  from store_table
+
+②
+select * from store_table order by store_nameAbc asc
+
+③
+select store_name,goods_name,quantity
+from store_table,goods_table,stock_table
+
+④
+select avg(price) from stock_table,store_table,goods_table
+
+⑤
+select avg(price) from goods_table;
+
+⑥
+insert into goods_table
+(goods_code,goods_name,price,update_day)
+VALUES
+('M001','マフラー','4500','2022-12-27')
+
+画像
+https://gyazo.com/dd637608ea09c20feb21d2fa5859b445
+
+⑦
+update stock_table
+set (quantity,update_day) = ('10','2022-12-28')
+where
+goods_code = 'S987'
+and
+store_code = 'EA01'
+
+画像
+https://gyazo.com/b3fe218f1c10346bc51836e6865b8641　
+
+⑧
+delete from stock_table
+where 
+goods_code = 'S987'
+and
+store_code = 'EA01'
+
+画像
+https://gyazo.com/02a399e215f254e2d6033c06a35c357c 
+
