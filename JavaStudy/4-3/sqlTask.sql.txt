@@ -6,8 +6,25 @@ select store_name 店舗名  from store_table
 select * from store_table order by store_nameAbc asc
 
 ③
-select store_name,goods_name,quantity
-from store_table,goods_table,stock_table
+SELECT
+ a.quantity,
+ b.goods_name,
+ c.store_name 
+ 
+FROM
+ stock_table a 
+INNER JOIN
+ goods_table b  
+ON
+ a.goods_code = b.goods_code 
+
+INNER JOIN
+ store_table c 
+ON
+    c.store_code = a.store_code 
+
+画像
+https://gyazo.com/8ac0044958cfc2b2ba201faf7147f246
 
 ④
 select avg(price) from stock_table,store_table,goods_table
