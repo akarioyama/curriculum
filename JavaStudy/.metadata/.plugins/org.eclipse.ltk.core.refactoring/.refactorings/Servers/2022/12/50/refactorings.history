@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;localhost の Apache Tomcat v10.0 (2)-config&apos; to &apos;Check30&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;Servers&apos;&#x0D;&#x0A;- 宛先要素: &apos;Check30&apos;&#x0D;&#x0A;- オリジナル要素: &apos;localhost の Apache Tomcat v10.0 (2)-config&apos;&#x0D;&#x0A;- リファクタリングされた要素の参照を更新" description="フォルダーを移動" destination="=Check30" element1="localhost の Apache Tomcat v10.0 (2)-config" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1670655469118" units="0" version="1.0"/>
+</session>

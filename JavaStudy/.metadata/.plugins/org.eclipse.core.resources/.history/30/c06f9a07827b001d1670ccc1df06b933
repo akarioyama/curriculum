@@ -1,0 +1,31 @@
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.objects;
+
+
+
+public class ThrowsExceptionSample {
+	public static FileReader fr;
+
+	public static void main(String[] args) {
+		try {
+			inputFile();
+		}catch(FileNotFoundException e) {
+			System.out.print("指定されたファイルが存在しませんでした。");
+		}catch(IOException e) {
+			System.out.print("ファイル読み込み中にエラーが発生しました。”);
+	　}finally {
+		if(objects.nowNull(fr)) {
+			try {
+				fr.close();
+			}catch(IOException e){
+					e.printStackTrace();
+				}
+			}
+		}
+		}
+
+	}
+
+}

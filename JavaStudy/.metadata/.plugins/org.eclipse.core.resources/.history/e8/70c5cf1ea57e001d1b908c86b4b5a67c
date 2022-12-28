@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>select</title>
+</head>
+<body>
+ <div align="center">
+ 今日は何月ですか？
+<form action="http://localhost:8080/SelectServlet.month" method="post">
+</body>
+</html>

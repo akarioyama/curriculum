@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package study;
+
+/**
+ * @author Akari_OYAMA
+ *
+ */
+abstract class PolimoSuper {
+
+}

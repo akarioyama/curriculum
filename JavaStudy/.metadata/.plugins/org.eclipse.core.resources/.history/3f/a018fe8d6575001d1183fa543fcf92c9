@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+.jspTest.jsp.div{
+	padding-top:50px;
+	padding-bottom:50px;
+}
+
+.header.jsp.div{
+	background-color:gray;
+}
+.header.jsp.label{
+	display:inline-block;
+	padding:10px;
+	color:white;
+	padding:10px;
+	font-size:10px;
+}

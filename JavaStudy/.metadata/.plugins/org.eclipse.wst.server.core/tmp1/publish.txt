@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sat Dec 10 15:26:12 JST 2022
+org.eclipse.jst.jee.server\:/binary\:C\:\\LetsEngineer\\curriculum\\JavaStudy\\check3\\src\\main\\webapp\\WEB-INF\\lib\\lib\\tomcat-websocket.jar=WEB-INF/lib/lib/tomcat-websocket.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\LetsEngineer\\curriculum\\JavaStudy\\check3\\src\\main\\webapp\\WEB-INF\\lib\\lib\\jasper.jar=WEB-INF/lib/lib/jasper.jar

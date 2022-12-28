@@ -1,0 +1,26 @@
+/**
+ * 
+ */
+
+/**
+ * @author Akari_OYAMA
+ *
+ */
+public abstract class AbilityOfEnemy {
+
+	/**
+	 * 
+	 */
+	public AbilityOfEnemy() {
+		// TODO 自動生成されたコンストラクター・スタブ
+	}
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+
+	}
+
+}

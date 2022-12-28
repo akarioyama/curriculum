@@ -1,0 +1,9 @@
+package interfaces;
+
+public class PolimoSuper extends PolimoSuper {
+
+	public PolimoSuper() {
+		// TODO 自動生成されたコンストラクター・スタブ
+	}
+
+}
