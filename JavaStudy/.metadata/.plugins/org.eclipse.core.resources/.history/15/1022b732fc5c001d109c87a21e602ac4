@@ -1,9 +1,0 @@
-package study;
-
-public class B  extends Super{
-
-	public static void main(String[] args) {
-
-	}
-
-}
