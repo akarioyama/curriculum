@@ -2,4 +2,6 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="study.Businessman"/>
     <fullyQualifiedTypeName name="object.object"/>
+    <fullyQualifiedTypeName name="service.EmployeeService"/>
+    <fullyQualifiedTypeName name="bean.EmployeeBean"/>
 </qualifiedTypeNameHistroy>
