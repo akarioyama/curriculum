@@ -31,7 +31,7 @@ public class EmployeeService {
 
   // 問② 入力された値で、UPDATEする文
  /** ・SQL UPDATE文 */
- private static final String SQL_UPDATE ="UPDATE employee_table SET login_time = ? WHERE id = ?";
+ private static final String SQL_UPDATE = "UPDATE employee_table SET login_time = ? WHERE id = ?";
 
   // 問③ 入力されたIDとPassWordをキーにして、検索するSELECT文
  /** ・SQL SELECT文 */
@@ -70,7 +70,7 @@ public EmployeeBean search(String id, String password) {
  preparedStatement = connection.prepareStatement(SQL_UPDATE);
   // 問④ preparedStatementを使って、一番目のindexに今の時間をセットしてください。2番目のindexにIDをセットしてください。
  preparedStatement.setString(1, login_time);
- preparedStatement.setString(2, id );
+ preparedStatement.setString(2, id);
   // 問⑤ UPDATEを実行する文を記入
  //前処理済のSQL文(検索系SQL以外のSQL文)を実行し、更新係数を返却する
  preparedStatement.executeUpdate();
