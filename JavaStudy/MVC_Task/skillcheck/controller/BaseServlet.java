@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Objects;
 
+import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
@@ -24,6 +25,7 @@ import util.PasswordHashUtil;
  * @author y.sato
  * @since 2019/01/02
  */
+@SuppressWarnings("unused")
 public abstract class BaseServlet extends javax.servlet.http.HttpServlet {
 
     /**
@@ -53,12 +55,6 @@ public abstract class BaseServlet extends javax.servlet.http.HttpServlet {
     protected ResponseBean responseBean;
     /** 社員情報サービス */
     protected EmployeeManagementService ems;
-
-	private int listSize;
-
-	private boolean isLogout;
-
-	private String message;
 
     /**
      * コンストラクタ
@@ -221,5 +217,11 @@ public abstract class BaseServlet extends javax.servlet.http.HttpServlet {
         if (listSize < 0) return;
         this.responseBean.setEmplyeeBeanList(new ArrayList<>(listSize));
     }
+
+	protected <HttpServletResponse> void doGet(HttpServletRequest request, HttpServletResponse response)
+			throws ServletException, IOException {
+		// TODO 自動生成されたメソッド・スタブ
+
+	}
 
 }
