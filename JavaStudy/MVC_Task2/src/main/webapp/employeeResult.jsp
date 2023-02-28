@@ -24,7 +24,7 @@
 
         // FIXME Step-2-1: リクエストよりレスポンスBeanを取得しなさい。
         // Tips: 正確な型（クラス）でキャストすること
-        responseBean = ResponseBean.ResponseBean();
+        responseBean = (ResponseBean)request.getAttribute("responsebean");
         empResultList = responseBean.getEmplyeeBeanList();
         requestStatus = responseBean.getRequestStaus();
         message = responseBean.getMessage();
@@ -73,7 +73,7 @@
                 <td title="<%=emp.getProgramingLanguage()%>">getProgramingLanguage</td>
                 <td title="<%=emp.getComment()%>">getComment</td>
                 <td>
-                    <form action="/MVC_Task/employee" method="get">
+                    <form action="/MVC_Task2/employee" method="get">
                         <input type="hidden" name="sender" value="/employeeResult.jsp"></input>
                         <input type="hidden" name="empId" value="<%=emp.getEmpId()%>">
                         <label id="update" class="btn-emp-regist">
@@ -90,7 +90,7 @@
             <tfoot align="right" class="tfoot-td">
                 <tr>
                     <td colspan="8">
-                        <form action="/MVC_Task/employee" method="post">
+                        <form action="/MVC_Task2/employee" method="post">
                             <div class="div-btn-delete-area">
                                 <input type="hidden" name="sender" value="/employeeResult.jsp"></input>
                                 <input id="deleteEmpId" type="hidden" name="empId" value="">
