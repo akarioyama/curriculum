@@ -105,7 +105,7 @@
     </div>
     <% } %>
     <br>
-    <form action="/MVC_Task/employee" method="get">
+    <form action="/MVC_Task2/employee" method="get">
         <input type="hidden" name="sender" value="/employeeResult.jsp"></input>
         <br>
         <label id="logout" class="btn-logout" onclick="exeSubmit(this)">
