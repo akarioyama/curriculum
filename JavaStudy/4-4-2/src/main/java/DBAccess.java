@@ -42,9 +42,9 @@ public class DBAccess {
         ResultSet resultSet = null;
 
         try {
-            Class.forName(POSTGRES_DRIVER);
+        	Class.forName(POSTGRES_DRIVER);
             // 問④ 問①〜③の定数を使ってデータベースと接続しなさい。
-            connection = DriverManager.getConnection(JDBC_CONNECTION,USER, PASS);
+        	connection = DriverManager.getConnection(JDBC_CONNECTION, USER, PASS);
            
             statement = connection.createStatement();
 
